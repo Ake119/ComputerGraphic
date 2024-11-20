@@ -44,4 +44,7 @@
 - 确保正确配置了 OpenGL 和 GLUT，否则程序将无法正常运行。
 - 在Windows环境下可能需要设置额外的库路径以链接 OpenGL 和 GLUT 相关的库。（已配置好）
 
+## 效果
+![image](https://github.com/Ake119/ComputerGraphic/blob/master/效果.jpg)
+
 
